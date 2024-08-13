@@ -1,4 +1,4 @@
-# DIGI+ Talent 2023
+# DIGI+ Talent 2024
 
 DIGI+ Talent 跨域數位人才加速躍升計畫
 
@@ -10,13 +10,10 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 ---
 # Course lecture slide
 
-1. [Course overview and Introduction to Linux](https://drive.google.com/drive/folders/13_ElQoSCvJEk_lITBI4wrCJnSl3SYHaP?usp=sharing)
-2. [Intruduction to NGS Technologies](https://drive.google.com/drive/folders/134S_LUQintkJip_h2Jemzp9hEB-IOw5h?usp=sharing) 
-3. [NGS Analysis Flow](https://drive.google.com/drive/folders/13NQv_78LQRTGqhgr2N4BYEahca4GBWQ9?usp=sharing)
-4. [NGS Alignment](https://drive.google.com/drive/folders/12v-b9e-CuwqJB4BMgOZuNR-_p2U9zeRJ?usp=sharing)
-5. [NGS Variant Calling (Germline/Somatic)](https://drive.google.com/drive/folders/12uae8UALumiad3Mfcu28-YQgFF-9sK_v?usp=sharing)
-6. [NGS SV/CNV Calling](https://drive.google.com/drive/folders/13CBuwXSqaFu1mfrwe6cJIMKzLahdQdrq?usp=sharing)
-7. [NGS Variant Annotation for Clinical](https://drive.google.com/drive/folders/13ZsuRIlwu6voQv8_sIRzJLDaz8iATdmB?usp=sharing)
+1. [Course overview and Introduction to Linux](https://drive.google.com/drive/folders/12INA5pVG4KAF4PJ7S6tkWPeFY9t69OOd?usp=sharing)
+2. [NGA Alignment and Calling](https://drive.google.com/drive/folders/1Mp8g2nuGORdPzmapfaisbVVCimTUnHYB?usp=sharing)
+3. [NGS Variant Annotation](https://drive.google.com/drive/folders/1Jz9C4vJ7Igifwk4MuNh6-evymH9JQIAc?usp=sharing)
+
 
 ---
 # Hands-On
